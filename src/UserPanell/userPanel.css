@@ -1,0 +1,18 @@
+.hero{
+    background-image: url("./assessts/user_bg.jpg");
+    opacity: 0.9;
+    background-attachment: fixed;
+    background-size: auto;
+}
+.festival{
+    background-image: url("./assessts/her0_bg.webp");
+    opacity: 0.95;
+    background-attachment: fixed;
+    transition: all 0.7s linear;
+}
+.events {
+    background-image: url("./assessts/her0_bg.webp");
+    opacity: 0.95;
+    background-attachment: fixed;
+    transition: all 0.7s linear;
+}
