@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/eventUniverse/static/css/main.7fc511dc.css",
+    "main.js": "/eventUniverse/static/js/main.b16f6f15.js",
+    "static/media/logo.png": "/eventUniverse/static/media/logo.28297bd2c2e047163893.png",
+    "static/media/Concert.webp": "/eventUniverse/static/media/Concert.c552e63c0fd2cdbaa37a.webp",
+    "static/media/her0_bg.webp": "/eventUniverse/static/media/her0_bg.be6ea35e6767eb37d5f9.webp",
+    "static/media/moroco.webp": "/eventUniverse/static/media/moroco.9f5a14b5b86b2efb25e5.webp",
+    "static/media/logo_text.png": "/eventUniverse/static/media/logo_text.dad6dd164b4c7e53435a.png",
+    "static/media/Paris.webp": "/eventUniverse/static/media/Paris.3e0db7f5d8f7d5bea52e.webp",
+    "static/media/slider.webp": "/eventUniverse/static/media/slider.b5900faaebcbdcc61f18.webp",
+    "static/media/user_bg.jpg": "/eventUniverse/static/media/user_bg.078e440796fb074a16a2.jpg",
+    "index.html": "/eventUniverse/index.html",
+    "main.7fc511dc.css.map": "/eventUniverse/static/css/main.7fc511dc.css.map",
+    "main.b16f6f15.js.map": "/eventUniverse/static/js/main.b16f6f15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fc511dc.css",
+    "static/js/main.b16f6f15.js"
+  ]
+}
